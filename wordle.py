@@ -87,5 +87,4 @@ def main():
 play()
     
 
-    # flex goals -- get it to not highlight yellow color if the letter has been used already
-    #  get it to only use valid words i.e. words in the word_list.py 
+   
